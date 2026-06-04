@@ -6,12 +6,12 @@ An instant chess game on the web — no accounts, no setup, just play anywhere, 
 
 ## ⚡ Features
 
-- ⚡ Instant matchmaking (no login required)
-- ♟️ Full chess rules (legal moves, check, checkmate)
-- 🤖 Play against Stockfish when no opponent is found
-- 💬 Real-time chat with optional censorship
-- 🔄 Live move synchronization via WebSockets
-- 📱 Responsive design (desktop + mobile)
+- Instant matchmaking (no login required)
+- Full chess rules (legal moves, check, checkmate)
+- Play against Stockfish when no opponent is found
+- Real-time chat with optional censorship
+- Live move synchronization via WebSockets
+- Responsive design (desktop + mobile)
 
 ## How the frontend works ( Simplified )
 ![alt text](image-1.png)
